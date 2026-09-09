@@ -1,0 +1,8 @@
+*.csv
+classes/
+*.class
+yarn/
+tmp/
+logs/
+.idea/
+.vscode/
